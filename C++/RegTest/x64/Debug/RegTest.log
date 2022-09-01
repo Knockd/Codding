@@ -1,0 +1,5 @@
+﻿  CreateKey.cpp
+D:\code\C++\RegTest\CreateKey.cpp(6,24): warning C4101: “lpSecurityAttributes”: 未引用的局部变量
+D:\code\C++\RegTest\CreateKey.cpp(18,19): warning C4129: “c”: 不可识别的字符转义序列
+D:\code\C++\RegTest\CreateKey.cpp(18,19): warning C4129: “d”: 不可识别的字符转义序列
+D:\code\C++\RegTest\CreateKey.cpp(19): error C4700: 使用了未初始化的局部变量“HEKY_CURRENT_USER”
